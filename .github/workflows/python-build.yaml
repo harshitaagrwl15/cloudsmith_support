@@ -20,4 +20,4 @@ jobs:
           owner: "cloudsmith"
           repo: "actions"
           republish: "true" # needed ONLY if version is not changing
-          file: "test/fixture/cloudsmith-python-example-1.0.0.tar.gz"
+          file: "example_pypi-package-main.zip"
