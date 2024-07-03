@@ -20,4 +20,4 @@ jobs:
           owner: "cloudsmith"
           repo: "actions"
           republish: "true" # needed ONLY if version is not changing
-          file: "example_pypi-package-main.zip"
+          file: "../example_pypi-package-main.zip"
